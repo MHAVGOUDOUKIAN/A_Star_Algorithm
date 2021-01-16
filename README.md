@@ -4,28 +4,28 @@ But du programme: Recherche du chemin le plus court enter la case départ (en ve
 
 Touches:
 
-  Echap -> quitter
+    Echap -> quitter
 
-  Clic Gauche -> ajouter un mur
+    Clic Gauche -> ajouter un mur
   
-  Clic droit -> supprimer un mur
+    Clic droit -> supprimer un mur
 
-  Ctrl + clic gauche -> modifier la case départ (en vert) 
+    Ctrl + clic gauche -> modifier la case départ (en vert) 
 
-  Shift + clic droit -> modifier la case d'arrivée (en rouge)
+    Shift + clic droit -> modifier la case d'arrivée (en rouge)
 
 
 
 Code couleur:
 
-  Case cyan: case "visitée" par l'algorithme
+    Case cyan: case "visitée" par l'algorithme
 
-  Case bleu: case non "visitée"
-
-  Case jaune: chemin optimal
+    Case bleu: case non "visitée"
   
-  Case vert: départ
+    Case jaune: chemin optimal
   
-  Case rouge: arrivée
+    Case vert: départ
+  
+    Case rouge: arrivée
 
 ~ Auteur: Maxime HAVGOUODUKIAN ~
