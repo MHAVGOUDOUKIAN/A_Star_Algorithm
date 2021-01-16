@@ -1,4 +1,4 @@
-# A-_Algorithm
+# A_Star - Algorithm
 
 But du programme: Recherche du chemin le plus court enter la case départ (en vert) et la case d'arrivée (en rouge)
 
