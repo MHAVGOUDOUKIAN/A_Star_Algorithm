@@ -15,6 +15,8 @@ Ctrl + clic gauche -> modifier la case départ (en vert)
 Shift + clic droit -> modifier la case d'arrivée (en rouge)
 
 
+
+
 Case cyan: case "visitée" par l'algorithme
 
 Case bleu: case non "visitée"
