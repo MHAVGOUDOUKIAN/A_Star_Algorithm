@@ -1,4 +1,4 @@
-# A_Star - Algorithm
+# Algorithme de Pathfinding
 
 But du programme: Recherche du chemin le plus court enter la case départ (en vert) et la case d'arrivée (en rouge)
 
