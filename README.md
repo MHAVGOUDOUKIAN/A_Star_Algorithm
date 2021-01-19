@@ -28,4 +28,4 @@ Code couleur:
   
     Case rouge: arrivée
 
-~ Auteur: Maxime HAVGOUODUKIAN ~
+~ Auteur: Maxime HAVGOUDOUKIAN ~
