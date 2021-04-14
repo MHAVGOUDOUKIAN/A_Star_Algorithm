@@ -1,6 +1,6 @@
 # Algorithme de Pathfinding
 
-But du programme: Recherche du chemin le plus court entre la case départ (en vert) et la case d'arrivée (en rouge)
+But du programme: Recherche du chemin le plus court entre la case départ (en vert) et la case d'arrivée (en rouge).
 
 Touches:
 
