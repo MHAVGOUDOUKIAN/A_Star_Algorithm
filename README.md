@@ -4,32 +4,26 @@ But du programme: Recherche du chemin le plus court entre la case départ (en ve
 
 ## Commandes
 
-    |Touche|Action|
-    |.....|.....|
-    Echap -> quitter
+    | Touche | Action |
+    | ------ | ------ |
+    | Echap | Quitter |
+    | Clic Gauche | Ajouter un mur|
+    | Clic droit | Supprimer un mur |
+    | Ctrl + clic gauche | modifier la case départ (en vert) | 
+    | Shift + clic droit | modifier la case d'arrivée (en rouge) |
 
-    Clic Gauche -> ajouter un mur
+
+
+## Code couleur
+
+    | Couleur |  |
+    | ------ | ------ |
+    | Case cyan| case "visitée" par l'algorithme|
+
+    | Case bleu| case non "visitée"|
   
-    Clic droit -> supprimer un mur
-
-    Ctrl + clic gauche -> modifier la case départ (en vert) 
-
-    Shift + clic droit -> modifier la case d'arrivée (en rouge)
-
-
-
-Code couleur:
-
-    Case cyan: case "visitée" par l'algorithme
-
-    Case bleu: case non "visitée"
+    | Case jaune| chemin optimal|
   
-    Case jaune: chemin optimal
+    | Case vert | départ |
   
-    Case vert: départ
-  
-    Case rouge: arrivée
-
-~ Auteur: Maxime HAVGOUDOUKIAN ~
-
-### Status du projet - Terminé
+    | Case rouge | arrivée |
